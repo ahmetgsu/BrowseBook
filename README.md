@@ -11,7 +11,7 @@
 On the command prompt run the following commands
 
 ```sh
-$ git clone https://github.com/madewithlove/technical-assignment-mobile-engineer-ahmetgsu.git
+$ git clone https://github.com/ahmetgsu/BrowseBook.git
 
 $ cd technical-assignment-mobile-engineer-ahmetgsu/
 
